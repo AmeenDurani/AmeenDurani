@@ -1,1 +1,1 @@
-I am a passionate student at the University of Waterloo, specializing in embedded system design and robotics. 
+I'm a student at the University of Waterloo, specializing in embedded system design and robotics. 
